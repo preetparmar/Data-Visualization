@@ -7,3 +7,5 @@
   - Using pages as tool tips
   - Forcasting values in a visual
   - Using PowerPoint for creating various background
+
+![Tool Tip 1](https://github.com/preetparmar/Data-Visualization/blob/main/Power%20BI%20Projects/Sales%20and%20Budget%20Analysis/Resources/Images/Tool%20Tip%2001.png) ![Tool Tip 2](https://github.com/preetparmar/Data-Visualization/blob/main/Power%20BI%20Projects/Sales%20and%20Budget%20Analysis/Resources/Images/Tool%20Tip%2002.png)
