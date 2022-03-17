@@ -11,4 +11,4 @@
 
 ---
 
-For all of my projects you can visit my website [here](https://preetparmar.com).
+For all of my projects you can visit my website [here](https://preetparmar.com/projects).
