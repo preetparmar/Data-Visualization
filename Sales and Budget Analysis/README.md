@@ -13,3 +13,7 @@
 |                                                                                                                                                 |                                                                                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Tool Tip 1](https://github.com/preetparmar/Data-Visualization/blob/main/Sales%20and%20Budget%20Analysis/Resources/Images/Tool%20Tip%2001.png) | ![Tool Tip 2](https://github.com/preetparmar/Data-Visualization/blob/main/Sales%20and%20Budget%20Analysis/Resources/Images/Tool%20Tip%2002.png) |
+
+---
+
+For all of my projects you can visit my website [here](https://preetparmar.com/projects).
