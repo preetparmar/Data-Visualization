@@ -1,4 +1,4 @@
-# [Sales and Budget Analysis](https://github.com/preetparmar/Data-Visualization/tree/main/Power%20BI%20Projects/Sales%20and%20Budget%20Analysis)
+# Sales and Budget Analysis using Power BI
 
 ![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Sales%20and%20Budget%20Analysis%20using%20Power%20BI/Resources/Images/Dashboard.png)
 
