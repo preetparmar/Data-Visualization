@@ -8,6 +8,8 @@
   - Creating Custom Speed Gauge Visual
   - Using custom design for standout visuals
 
+The excel file is currently locked, if you would like editing permissions then feel free to contact me.
+
 ---
 
 For all of my projects you can visit my website [here](https://preetparmar.com/projects).
