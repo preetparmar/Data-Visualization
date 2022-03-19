@@ -1,4 +1,4 @@
-# Executive Sales Report
+# Executive Sales Report using Power BI
 
 ![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Executive%20Sales%20Report%20using%20Power%20BI/Resources/Screenshot/Screenshot.png)
 
