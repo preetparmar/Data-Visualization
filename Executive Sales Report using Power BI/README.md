@@ -1,6 +1,6 @@
 # Executive Sales Report
 
-![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Executive%20Sales%20Report/Resources/Screenshot/Screenshot.png)
+![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Executive%20Sales%20Report%20using%20Power%20BI/Resources/Screenshot/Screenshot.png)
 
 ## Some advanced features in the dashboard:
 
