@@ -1,18 +1,12 @@
-# [Sales and Budget Analysis](https://github.com/preetparmar/Data-Visualization/tree/main/Power%20BI%20Projects/Sales%20and%20Budget%20Analysis)
+# Financial Statistics using Excel
 
-![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Sales%20and%20Budget%20Analysis/Resources/Images/Dashboard.png)
+![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Financial%20Statistics%20using%20Excel/Resources/Screenshots/Income%20Source.png)
 
-- This dashboard analyses Sales and Budget on a random dataset
-- This dashboard includes various advanced techniques:
-  - Using pages as tool tips
-  - Forcasting values in a visual
-  - Using PowerPoint for creating various background
-
-## Tool Tip Examples
-
-|                                                                                                                                                 |                                                                                                                                                 |
-| :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Tool Tip 1](https://github.com/preetparmar/Data-Visualization/blob/main/Sales%20and%20Budget%20Analysis/Resources/Images/Tool%20Tip%2001.png) | ![Tool Tip 2](https://github.com/preetparmar/Data-Visualization/blob/main/Sales%20and%20Budget%20Analysis/Resources/Images/Tool%20Tip%2002.png) |
+- This dashboard analyses Financial Dataset
+- This dashboard includes various advanced excel techniques:
+  - Creating Custom Donut Visuals
+  - Creating Custom Speed Gauge Visual
+  - Using custom design for standout visuals
 
 ---
 
