@@ -9,6 +9,11 @@
   - Use of Buttons for navigation purpose
   - Created a seperate view for filters
   - Added various elements to highligh the current page
+  - Used Dynamic Measures for titles, showing selected date ranges and regions
+  - Use of other visuals as tooltip
+  - Custom formating using icons in table
+  - Use of paramets for the added interactivity
+  - Designed custom theme for a uniform look across the entire dashboard
 
 **_Please Note:_**
 
