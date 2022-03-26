@@ -10,6 +10,9 @@
   - Created a seperate view for filters
   - Added various elements to highligh the current page
 
+**Please Note:**
+**This dashboard design is inspired by an entry from Sam McKay. You can find the link to his blog [here](https://forum.enterprisedna.co/t/power-bi-challenge-6-insurance-complaints-entry-from-sam-m/10402).**
+
 ---
 
 For all of my projects you can visit my website [here](https://preetparmar.com/projects).
