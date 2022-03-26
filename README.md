@@ -5,6 +5,7 @@
 
 ## List of all the projects
 
+- [Insurance Complaints Analysis using Power BI](https://github.com/preetparmar/Data-Visualization/tree/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI)
 - [Executive Sales Report using Power BI](https://github.com/preetparmar/Data-Visualization/tree/main/Executive%20Sales%20Report%20using%20Power%20BI)
 - [Financial Complaints Report using Tableau](https://github.com/preetparmar/Data-Visualization/tree/main/Financial%20Complaints%20using%20Tableau)
 - [Financial Statistics using Excel](https://github.com/preetparmar/Data-Visualization/tree/main/Financial%20Statistics%20using%20Excel)
