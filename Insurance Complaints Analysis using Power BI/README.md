@@ -24,8 +24,9 @@
 
 **Screenshots of various pages**
 
+<p float="left">
 <img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Settings.png" width=50% padding-right:10px><img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png" width=50%>
-
+</p>
 ---
 
 For all of my projects you can visit my website [here](https://preetparmar.com/projects).
