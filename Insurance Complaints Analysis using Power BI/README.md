@@ -3,7 +3,7 @@
 ![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png)
 
 - This dashboard analyses Insurance Complaints data.
-- The main focus for this project is the UI element.
+- The main focus for this project is enhancing the user interaction experience.
 - I have used various advanced techniques like:
   - Syncing Slicers across different pages
   - Use of Buttons for navigation purpose
