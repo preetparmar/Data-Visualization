@@ -22,4 +22,10 @@
 
 ---
 
+**Screenshots of various pages**
+![](https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Settings.png)
+![](https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png)
+
+---
+
 For all of my projects you can visit my website [here](https://preetparmar.com/projects).
