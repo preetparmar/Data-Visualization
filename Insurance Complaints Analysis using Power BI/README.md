@@ -25,8 +25,9 @@
 **Screenshots of various pages**
 
 <div style="width: 50%">
-  ![]("https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Settings.png)
+  ![](https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Settings.png)
 </div>
+
 ![](https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png)
 
 ---
