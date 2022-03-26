@@ -24,12 +24,8 @@
 
 **Screenshots of various pages**
 
-<p>
-<img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Settings.png" width=40%>
-<em>Settings</em>
-&nbsp;&nbsp;
-<img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png" width=48%>
-</p>
+<img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Settings.png" width=48%>&nbsp;&nbsp;<img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png" width=48%>
+
 <img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Brokers.png" width=48%>&nbsp;&nbsp;<img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Customers.png" width=48%>
 
 <img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Actions.png" width=48%>&nbsp;&nbsp;<img src="https://github.com/preetparmar/Data-Visualization/blob/main/Insurance%20Complaints%20Analysis%20using%20Power%20BI/Resources/Screenshots/Page%20-%20Details.png" width=48%>
