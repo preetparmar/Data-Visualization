@@ -2,7 +2,7 @@
 
 ![dashboard](https://github.com/preetparmar/Data-Visualization/blob/main/Basic%20Sales%20Analysis%20using%20Power%20BI/Resources/Screenshots/Dashboard.png)
 
-This dashboard serves perfectly for someone just diving into Power BI. This is one of the most basic projects I have created using Power BI. For some advanced dashbaords feel free to look at some of the other projects I have worked on.
+This dashboard is perfect for someone starting with Power BI. It is one of the fundamental projects I've created. For some advanced dashbaords, refer to my other projects.
 
 ---
 
