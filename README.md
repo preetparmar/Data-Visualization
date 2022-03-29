@@ -10,6 +10,7 @@
 - [Financial Complaints Report using Tableau](https://github.com/preetparmar/Data-Visualization/tree/main/Financial%20Complaints%20using%20Tableau)
 - [Financial Statistics using Excel](https://github.com/preetparmar/Data-Visualization/tree/main/Financial%20Statistics%20using%20Excel)
 - [Sales and Budget Analysis using Power BI](https://github.com/preetparmar/Data-Visualization/tree/main/Sales%20and%20Budget%20Analysis%20using%20Power%20BI)
+- [Basic Sales Analysis using Power BI](https://github.com/preetparmar/Data-Visualization/tree/main/Basic%20Sales%20Analysis%20using%20Power%20BI)
 
 ---
 
